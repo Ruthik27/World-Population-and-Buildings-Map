@@ -12,43 +12,62 @@ This project visualizes the relationship between population density, area, and b
 
 ## Installation
 
-1. **Clone the Repository**
+### Backend Setup
+1. Navigate to the backend directory:
    ```bash
-   git clone https://github.com/Ruthik27/World-Population-and-Buildings-Map
-   cd World-Population-and-Buildings-Map
+   cd backend
    ```
-
-2. **Install Dependencies**
-   Ensure you have Python installed. Use the `requirements.txt` file to install Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Install Node.js Dependencies**
+2. Install Node.js dependencies:
    ```bash
    npm install
    ```
-
-4. **Set Environment Variables**
-   Create a `.env` file in the root directory and add the following:
-   ```env
-   REACT_APP_MAPBOX_ACCESS_TOKEN=<your_mapbox_access_token>
-   REACT_APP_OPEN_BUILDINGS_API_KEY=<your_open_buildings_api_key>
-   ```
-
-5. **Start the Server**
+3. Run the backend server:
    ```bash
    node server.js
    ```
 
-6. **Run the Frontend**
+### Frontend Setup
+1. Navigate to the root directory:
+   ```bash
+   cd root
+   ```
+2. Install frontend dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the frontend development server:
    ```bash
    npm start
    ```
 
-## Usage
-- The map will load and display countries with heatmaps and fill colors.
-- You can zoom in to see more details about population density and relations.
+## Environment Variables
+Create a `.env` file in the root directory and add the following variables:
+
+```env
+REACT_APP_MAPBOX_ACCESS_TOKEN=<your_mapbox_token>
+REACT_APP_OPEN_BUILDINGS_API_KEY=<your_open_buildings_api_key>
+```
+
+Replace `<your_mapbox_token>`, `<your_open_buildings_api_key>`, and `<your_google_earth_engine_token>` with your actual tokens.
+
+## Installing Python Dependencies
+If the project has Python dependencies for certain tasks, use the provided `requirements.txt` file to install them:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running the Project
+1. Start the backend server:
+   ```bash
+   cd backend
+   node server.js
+   ```
+2. Start the frontend server:
+   ```bash
+   npm start
+   ```
+3. Open your browser and navigate to `http://localhost:3000`.
 
 <img alt="image" src="imgs/Screenshot.png">
 
@@ -90,8 +109,11 @@ root
 6. **Analytics and Insights**
    - Add a dashboard for aggregate statistics and trend analysis.
 
-## Contributing
+## Contributors
+[UGA-ITOSHumanitarianGIS](https://github.com/UGA-ITOSHumanitarianGIS)
+
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
