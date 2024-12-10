@@ -96,11 +96,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-Project Link: [https://github.com/Ruthik27/](https://github.com/Ruthik27/World-Population-and-Buildings-Map)
+Project Link: [https://github.com/Ruthik27/World-Population-and-Buildings-Map](https://github.com/Ruthik27/World-Population-and-Buildings-Map)
 
 ## Support
 
-<img width="410" alt="image" src="https://github.com/Ruthik27/imgs/CVIOG">
+<img width="410" alt="image" src="imgs/CVIOG.png">
 
 
 
