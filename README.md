@@ -88,8 +88,11 @@ root
 6. **Analytics and Insights**
    - Add a dashboard for aggregate statistics and trend analysis.
 
-## Contributing
+## Contributors
+[UGA-ITOSHumanitarianGIS](https://github.com/UGA-ITOSHumanitarianGIS)
+
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
