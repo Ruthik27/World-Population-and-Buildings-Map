@@ -100,7 +100,7 @@ Project Link: [https://github.com/Ruthik27/](https://github.com/Ruthik27/World-P
 
 ## Support
 
-<img width="410" alt="image" src="https://github.com/Ruthik27/imgs/CVIOG">
+<img width="410" alt="image" src="imgs/CVIOG.png">
 
 
 
