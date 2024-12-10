@@ -14,8 +14,8 @@ This project visualizes the relationship between population density, area, and b
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Ruthik27/World-Population-and-Buildings-Map
+   cd World-Population-and-Buildings-Map
    ```
 
 2. **Install Dependencies**
@@ -96,15 +96,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-Project Link: [https://github.com/Ruthik27/](https://github.com/Ruthik27/)
+Project Link: [https://github.com/Ruthik27/](https://github.com/Ruthik27/World-Population-and-Buildings-Map)
 
 ## Support
 
-<img width="410" alt="image" src="https://github.com/Ruthik27/">
-
-<img width="409" alt="image" src="https://github.com/Ruthik27/">
-
-<img width="369" alt="image" src="https://github.com/Ruthik27/">
+<img width="410" alt="image" src="https://github.com/Ruthik27/imgs/CVIOG">
 
 
 
