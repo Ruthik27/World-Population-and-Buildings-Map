@@ -50,6 +50,8 @@ This project visualizes the relationship between population density, area, and b
 - The map will load and display countries with heatmaps and fill colors.
 - You can zoom in to see more details about population density and relations.
 
+<img alt="image" src="imgs/Screenshot.png">
+
 ## Folder Structure
 ```
 root
